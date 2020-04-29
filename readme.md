@@ -1,4 +1,4 @@
-# App Registration based on certification
+# App Registration based on certification - DEV
 
 This solution provide on other way to work with MFA.
 
